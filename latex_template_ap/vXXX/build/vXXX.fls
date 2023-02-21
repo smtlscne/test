@@ -1,4 +1,4 @@
-PWD /mnt/c/Users/tills/OneDrive/Dokumente/WS 22-23/test/latex_template_ap/vXXX
+PWD /mnt/c/Users/tills/OneDrive/Dokumente/WS 22-23/testrepo/latex_template_ap/vXXX
 INPUT /home/ts02/.local/texlive/2022/texmf-var/web2c/luahbtex/lualatex.fmt
 INPUT ./vXXX.tex
 OUTPUT build/vXXX.log
